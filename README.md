@@ -232,3 +232,18 @@ If TaxHacker has helped you save time or manage your finances better, consider s
 ## 📄 License
 
 TaxHacker is licensed under the [MIT License](LICENSE).
+
+<!-- HERDR-CONTEXT:START -->
+## Contexto del proyecto y clasificación en Herdr
+
+Fork de TaxHacker, herramienta de procesamiento de documentos financieros asistido por IA.
+
+**Espacio:** `02 LAB | REV | TaxHacker`. **Unidad:** Unidad pendiente de confirmar.
+
+### Clasificación
+
+La etiqueta LAB identifica una clasificación de catálogo pendiente de revalidación; no implica inactividad. REV significa unidad propietaria pendiente de confirmar. Los números ordenan navegación; no son un ranking de ingresos.
+
+Se conserva la documentación original y el crédito a sus autores. Esta sección no certifica disponibilidad actual ni modifica el runtime. Actualizada el 28-oct-2026.
+
+<!-- HERDR-CONTEXT:END -->
